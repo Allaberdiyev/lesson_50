@@ -10,6 +10,7 @@ class NoteItem extends StatelessWidget {
     required this.note,
     required this.onEdit,
     required this.onDelete,
+////a
   });
 
   @override
